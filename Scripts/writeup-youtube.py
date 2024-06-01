@@ -11,7 +11,7 @@ from discord import Embed
 DISCORD_BOT_TOKEN = "Token"
 
 # Your Discord channel ID
-DISCORD_CHANNEL_ID = "1238497887168630914"
+DISCORD_CHANNEL_ID = "ID"
 
 # Your YouTube API key
 YOUTUBE_API_KEY = "KEY"
